@@ -1,0 +1,57 @@
+{
+    "referenceNumber": "5252",
+    "vehicleDetails": {
+        "vehicleYear": "2020",
+        "vehicleFinanced": "N",
+        "vehicleUse": "02",
+        "vehicleRegistrationNumber": "TR012",
+        "vehicleRegisteredinSA": "Y"
+    },
+    "coverDetails": {
+        "numberOfVehiclesInsured": "1",
+        "insuredValue": "80000",
+        "legalProtect": "Y",
+        "additionalPassengerLiability": "Y",
+        "sasria": "N",
+        "noClaimsBonus": "Y",
+        "existingNonMotorCover": "N",
+        "assistProduct": "D",
+        "additionalExcess":"Y"
+    },
+    "policyHolderDetails": {
+        "dateOfBirth": "1972-04-27",
+        "iDNumber": "720427PP8401241",
+        "creditScoreDetails": {
+            "type": "D0",
+            "score": "8452",
+            "scoreDate": "2024-06-10",
+            "version": "A3",
+            "status": "0"
+        }
+    },
+    "dayParkingAddress": {
+        "postalCode": "2191",
+        "suburbName": "Dainfern",
+        "methodOfParking": "6"
+    },
+    "nightParkingAddress": {
+        "postalCode": "1609",
+        "suburbName": "Greenstone Hill",
+        "methodOfParking": "6"
+    },
+    "driverDetails": {
+        "dateOfBirth": "2000-5-22",
+        "gender": "M",
+        "maritalStatus": "M",
+        "occupation": "E",
+        "licenseDate": "2024-05-06",
+        "licenseType": "1",
+        "relationshipToPolicyHolder": "2",
+        "licenseCode": "C"
+    },
+    "companyDetails": {
+        "brandCode": "02",
+        "brokerCode": "BIBON",
+        "cashbackFlag": "N"
+    }
+}
